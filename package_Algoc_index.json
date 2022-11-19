@@ -5,14 +5,14 @@
             "maintainer":"AlgoC",
             "websiteURL":"",
             "email":"",
-			"help" : { "online" : "https://github.com/semir-t/AlgoC" },
+			"help" : { "online" : "https://github.com/semir-t/algoc" },
             "platforms":[
                 {
                     "name":"AlgoC",
                     "architecture":"avr",
                     "version":"0.1.0",
                     "category":"Contributed",
-                    "url":"http://raw.githubusercontent.com/semir-t/AlgoC/master/AlgoC_0.1.0.zip",
+                    "url":"http://raw.githubusercontent.com/semir-t/algoC/main/AlgoC_0.1.0.zip",
                     "archiveFileName":"AlgoC_0.1.0.zip",
                     "size":"11187571",
                     "boards":[
