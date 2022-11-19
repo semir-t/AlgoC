@@ -1,0 +1,32 @@
+{
+    "packages":[
+        {
+            "name":"AlgoC",
+            "maintainer":"AlgoC",
+            "websiteURL":"",
+            "email":"",
+			"help" : { "online" : "https://github.com/semir-t/AlgoC" },
+            "platforms":[
+                {
+                    "name":"AlgoC",
+                    "architecture":"avr",
+                    "version":"0.1.0",
+                    "category":"Contributed",
+                    "url":"http://raw.githubusercontent.com/semir-t/AlgoC/master/AlgoC_0.1.0.zip",
+                    "archiveFileName":"AlgoC_0.1.0.zip",
+                    "size":"11187571",
+                    "boards":[
+                        {
+                            "name":"AlgoC_328PB"
+                        }
+                    ],
+                    "toolsDependencies":[
+
+                    ]
+                }
+            ],
+            "tools":[
+            ]
+        }
+    ]
+}
