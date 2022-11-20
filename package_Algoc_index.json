@@ -10,6 +10,23 @@
                 {
                     "name":"AlgoC",
                     "architecture":"avr",
+                    "version":"0.1.0",
+                    "category":"Contributed",
+                    "url":"http://raw.githubusercontent.com/semir-t/algoC/main/AlgoC_0.1.0.zip",
+                    "archiveFileName":"AlgoC_0.1.0.zip",
+                    "size":"11187571",
+                    "boards":[
+                        {
+                            "name":"AlgoC_328PB"
+                        }
+                    ],
+                    "toolsDependencies":[
+
+                    ]
+                }
+                {
+                    "name":"AlgoC",
+                    "architecture":"avr",
                     "version":"0.1.1",
                     "category":"Contributed",
                     "url":"http://raw.githubusercontent.com/semir-t/algoC/main/AlgoC_0.1.1.zip",
@@ -28,5 +45,6 @@
             "tools":[
             ]
         }
+        
     ]
 }
