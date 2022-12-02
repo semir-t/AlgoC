@@ -23,7 +23,7 @@
                     "toolsDependencies":[
 
                     ]
-                }
+                },
                 {
                     "name":"AlgoC",
                     "architecture":"avr",
@@ -40,7 +40,7 @@
                     "toolsDependencies":[
 
                     ]
-                }
+                },
                 {
                     "name":"AlgoC",
                     "architecture":"avr",
