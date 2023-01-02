@@ -7,6 +7,24 @@
             "email":"",
 			"help" : { "online" : "https://github.com/semir-t/algoc" },
             "platforms":[
+				{
+                    "name":"AlgoC",
+                    "architecture":"avr",
+                    "version":"0.1.3",
+                    "category":"Contributed",
+                    "url":"http://raw.githubusercontent.com/semir-t/algoC/main/AlgoC_0.1.3.zip",
+                    "archiveFileName":"AlgoC_0.1.3.zip",
+                    "checksum": "SHA-256:1c356eb1164acfbf6be7a9d43c9477e7c2d624f033a1b4413f01026f8f87d762",
+                    "size":"11158191",
+                    "boards":[
+                        {
+                            "name":"AlgoC_328PB"
+                        }
+                    ],
+                    "toolsDependencies":[
+
+                    ]
+                },
                 {
                     "name":"AlgoC",
                     "architecture":"avr",
